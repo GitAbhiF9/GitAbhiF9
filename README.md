@@ -43,7 +43,8 @@ As a senior core team member of Tarkash, I am involved in planning and managing 
 - Google Workspace  
 - Power BI, Tableau  
 - SQL (Basic), SAP S4HANA (Basis)  
-- Customer Relationship Management (CRM) platforms  
+- Customer Relationship Management (CRM) platforms
+- MD Github/VS   
 
 ---
 
